@@ -35,7 +35,7 @@ The repository includes comprehensive instructions for simulating the project us
 
 ## 🗺️ Schematic Diagram
 
-![Schematic](blink.png)
+![image alt](https://github.com/faizan-alf/LED-BLINK/blob/c37a761ff959101f2d541421a5e72a3bb15d43c2/blink.png)
 
 ---
 
